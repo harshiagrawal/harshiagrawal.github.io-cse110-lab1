@@ -1,6 +1,6 @@
 # **Welcome to my personal GitHub page!**
 
-You can look at my [repository on GitHub](https://github.com/harshiagrawal/harshiagrawal.github.io-cse110-lab1/) to check out what files and branches I have created.
+You can look at my [repository on GitHub](https://github.com/harshiagrawal/harshiagrawal.github.io-cse110-lab1/) to check out what files and branches I have created. I used the gh-pages branch to code this site!
 
 ## **A little bit about me:**
 
@@ -26,7 +26,7 @@ However, if I had to rank these in order from my most favorite to lease favorite
 
 ### [**Women in Computing:**](https://wic.ucsd.edu/?fbclid=IwAR0ThnW8J6fKlp9n6EyYNDtAxD44_ZZNPlwqYrFDZ6Exz4Jwpj_aSI5vbKw#)
 
-I love being part of WIC on campus, so I wanted to go more in depth about it. Something I am **_very_** passionate about is diversity, especially in the tech industry. Being a woman ***AND*** a minority in this field, I strive to inspire other young women to not be intimidated. I want to be a part of a community that understands what it is like to be in a minority group and be able to support one another in this journey. Women in Computing has allowed me to do that. I ~~like~~ love to talk to others and give advice on how to get internships, how to network, and how to be successful in your career.
+I love being part of WIC on campus, so I wanted to go more in depth about it. Something I am **_very_** passionate about is diversity, especially in the tech industry. Being a woman **AND** a minority in this field, I strive to inspire other young women to not be intimidated. I want to be a part of a community that understands what it is like to be in a minority group and be able to support one another in this journey. Women in Computing has allowed me to do that. I ~~like~~ love to talk to others and give advice on how to get internships, how to network, and how to be successful in your career.
 
 As Coco Chanel once said: 
 > A girl should be two things: who and what she wants.
