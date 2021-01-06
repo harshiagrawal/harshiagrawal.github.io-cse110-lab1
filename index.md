@@ -50,16 +50,11 @@ I am also part of a sorority on campus, and I joined Fall 2020. Some of Delta Ga
 I do have some goals for myself both in my personal and professional life. Some of these goals have been met but include this list:
 
 [x] Get an internship for summer 2021
+
 [] Workout at least 5 times a week
+
 [] Network with more Product Managers
+
 [] Try to maintain a 3.8 GPA
+
 [] Travel to a new country in 2021 (if the pandemic gets better)
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/harshiagrawal/harshiagrawal.github.io-cse110-lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
