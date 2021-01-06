@@ -4,7 +4,7 @@ You can look at my [repository on GitHub](https://github.com/harshiagrawal/harsh
 
 ## **A little bit about me:**
 
-!(A picture of myself)[gh-pages/HarshiAgrawal.JPG]
+![Image](HarshiAgrawal.JPG)
 
 My name is Harshi Agrawal, and I am a 3rd year Computer Science student at UCSD. As part of my extracurriculars on campus, I am a social chair member on Women in Computing's board. I am also an employee on campus at Canyonview Aquatic Center and in Delta Gamma. Outside of school, these are some of the activities I *really* enjoy doing:
 
@@ -50,7 +50,7 @@ I am also part of a sorority on campus, and I joined Fall 2020. Some of Delta Ga
 I do have some goals for myself both in my personal and professional life. Some of these goals have been met but include this list:
 
 - [x] Get an internship for summer 2021
-- [] Workout at least 5 times a week
-- [] Network with more Product Managers
-- [] Try to maintain a 3.8 GPA
-- [] Travel to a new country in 2021 (if the pandemic gets better)
+- [ ] Workout at least 5 times a week
+- [ ] Network with more Product Managers
+- [ ] Try to maintain a 3.8 GPA
+- [ ] Travel to a new country in 2021 (if the pandemic gets better)
